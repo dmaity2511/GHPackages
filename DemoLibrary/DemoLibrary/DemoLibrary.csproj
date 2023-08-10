@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RepositoryUrl>https://github.com/samsmithnz/GHPackages</RepositoryUrl>
+    <RepositoryUrl>https://github.com/dmaity2511/GHPackages</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
